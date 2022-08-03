@@ -1,1 +1,1 @@
-# ramiro-renteria-cohort223-30-WES-BOS-Konami_code_Project
+This project is based on the Key Sequence Detection Challenge in Wes Bos courses
